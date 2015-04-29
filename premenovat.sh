@@ -20,7 +20,7 @@
     sox -t wav ./data/train/auto8.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/auto8.raw rate
     sox -t wav ./data/train/auto9.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/auto9.raw rate
 
-        sox -t wav ./data/train/lopata1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/lopata1.raw rate
+    sox -t wav ./data/train/lopata1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/lopata1.raw rate
     sox -t wav ./data/train/lopata2.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/lopata2.raw rate
     sox -t wav ./data/train/lopata3.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/lopata3.raw rate
     sox -t wav ./data/train/lopata4.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/lopata4.raw rate
@@ -30,7 +30,7 @@
     sox -t wav ./data/train/lopata8.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/lopata8.raw rate
     sox -t wav ./data/train/lopata9.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/lopata9.raw rate
 
-        sox -t wav ./data/train/pes1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/pes1.raw rate
+    sox -t wav ./data/train/pes1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/pes1.raw rate
     sox -t wav ./data/train/pes2.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/pes2.raw rate
     sox -t wav ./data/train/pes3.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/pes3.raw rate
     sox -t wav ./data/train/pes4.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/pes4.raw rate
@@ -40,7 +40,7 @@
     sox -t wav ./data/train/pes8.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/pes8.raw rate
     sox -t wav ./data/train/pes9.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/pes9.raw rate
 
-        sox -t wav ./data/train/voda1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/voda1.raw rate
+    sox -t wav ./data/train/voda1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/voda1.raw rate
     sox -t wav ./data/train/voda2.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/voda2.raw rate
     sox -t wav ./data/train/voda3.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/voda3.raw rate
     sox -t wav ./data/train/voda4.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/train/voda4.raw rate
@@ -74,7 +74,7 @@
     sox -t wav ./data/test/auto9.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/auto9.raw rate
     sox -t wav ./data/test/auto10.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/auto10.raw rate
 
-        sox -t wav ./data/test/lopata1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/lopata1.raw rate
+    sox -t wav ./data/test/lopata1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/lopata1.raw rate
     sox -t wav ./data/test/lopata2.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/lopata2.raw rate
     sox -t wav ./data/test/lopata3.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/lopata3.raw rate
     sox -t wav ./data/test/lopata4.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/lopata4.raw rate
@@ -85,7 +85,7 @@
     sox -t wav ./data/test/lopata9.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/lopata9.raw rate
     sox -t wav ./data/test/lopata10.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/lopata10.raw rate
         
-        sox -t wav ./data/test/pes1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/pes1.raw rate
+    sox -t wav ./data/test/pes1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/pes1.raw rate
     sox -t wav ./data/test/pes2.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/pes2.raw rate
     sox -t wav ./data/test/pes3.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/pes3.raw rate
     sox -t wav ./data/test/pes4.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/pes4.raw rate
@@ -96,7 +96,7 @@
     sox -t wav ./data/test/pes9.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/pes9.raw rate
     sox -t wav ./data/test/pes10.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/pes10.raw rate
 
-        sox -t wav ./data/test/voda1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/voda1.raw rate
+    sox -t wav ./data/test/voda1.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/voda1.raw rate
     sox -t wav ./data/test/voda2.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/voda2.raw rate
     sox -t wav ./data/test/voda3.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/voda3.raw rate
     sox -t wav ./data/test/voda4.wav -t raw -r 8000 -c 1 -e signed-integer -b 16 ./data/test/voda4.raw rate
