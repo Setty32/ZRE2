@@ -1,136 +1,136 @@
 #!MLF!#
-"data/train/pes1.wav"
-0	12293750	PES
+"data/train/auto1.lab"
+0	12160000	AUTO
 .
-"data/train/pes2.wav"
-0	13178750	PES
+"data/train/auto2.lab"
+0	12480000	AUTO
 .
-"data/train/pes3.wav"
-0	12488750	PES
+"data/train/auto3.lab"
+0	10880000	AUTO
 .
-"data/train/pes4.wav"
-0	4555000	PES
+"data/train/auto4.lab"
+0	6733750	AUTO
 .
-"data/train/pes5.wav"
-0	4201250	PES
+"data/train/auto5.lab"
+0	6385000	AUTO
 .
-"data/train/pes6.wav"
-0	6065000	PES
+"data/train/auto6.lab"
+0	7778750	AUTO
 .
-"data/train/pes7.wav"
-0	5663750	PES
+"data/train/auto7.lab"
+0	8800000	AUTO
 .
-"data/train/pes8.wav"
-0	10498750	PES
+"data/train/auto8.lab"
+0	10560000	AUTO
 .
-"data/train/pes9.wav"
-0	9953750	PES
+"data/train/auto9.lab"
+0	11680000	AUTO
 .
-"data/train/voda1.wav"
-0	11741250	VODA
+"data/train/pes1.lab"
+0	10080000	PES
 .
-"data/train/voda2.wav"
-0	11026250	VODA
+"data/train/pes2.lab"
+0	12960000	PES
 .
-"data/train/voda3.wav"
-0	14141250	VODA
+"data/train/pes3.lab"
+0	12000000	PES
 .
-"data/train/voda4.wav"
-0	13366250	VODA
+"data/train/pes4.lab"
+0	4527500	PES
 .
-"data/train/voda5.wav"
-0	7226250	VODA
+"data/train/pes5.lab"
+0	4760000	PES
 .
-"data/train/voda6.wav"
-0	6833750	VODA
+"data/train/pes6.lab"
+0	6037500	PES
 .
-"data/train/voda7.wav"
-0	9698750	VODA
+"data/train/pes7.lab"
+0	10080000	PES
 .
-"data/train/voda8.wav"
-0	9173750	VODA
+"data/train/pes8.lab"
+0	10400000	PES
 .
-"data/train/voda9.wav"
-0	12098750	VODA
+"data/train/pes9.lab"
+0	11200000	PES
 .
-"data/train/lopata1.wav"
-0	13503750	LOPATA
+"data/train/lopata1.lab"
+0	13280000	LOPATA
 .
-"data/train/lopata2.wav"
-0	12781250	LOPATA
+"data/train/lopata2.lab"
+0	11680000	LOPATA
 .
-"data/train/lopata3.wav"
-0	13983750	LOPATA
+"data/train/lopata3.lab"
+0	13760000	LOPATA
 .
-"data/train/lopata4.wav"
-0	13268750	LOPATA
+"data/train/lopata4.lab"
+0	8687500	LOPATA
 .
-"data/train/lopata5.wav"
-0	6993750	LOPATA
+"data/train/lopata5.lab"
+0	6966250	LOPATA
 .
-"data/train/lopata6.wav"
-0	6638750	LOPATA
+"data/train/lopata6.lab"
+0	8127500	LOPATA
 .
-"data/train/lopata7.wav"
-0	12258750	LOPATA
+"data/train/lopata7.lab"
+0	12160000	LOPATA
 .
-"data/train/lopata8.wav"
-0	11708750	LOPATA
+"data/train/lopata8.lab"
+0	12960000	LOPATA
 .
-"data/train/lopata9.wav"
-0	12898750	LOPATA
+"data/train/lopata9.lab"
+0	12800000	LOPATA
 .
-"data/train/kaktus1.wav"
-0	11221250	KAKTUS
+"data/train/voda1.lab"
+0	11520000	VODA
 .
-"data/train/kaktus2.wav"
-0	14623750	KAKTUS
+"data/train/voda2.lab"
+0	11840000	VODA
 .
-"data/train/kaktus3.wav"
-0	13853750	KAKTUS
+"data/train/voda3.lab"
+0	13920000	VODA
 .
-"data/train/kaktus4.wav"
-0	6877500	KAKTUS
+"data/train/voda4.lab"
+0	6966250	VODA
 .
-"data/train/kaktus5.wav"
-0	6541250	KAKTUS
+"data/train/voda5.lab"
+0	7198750	VODA
 .
-"data/train/kaktus6.wav"
-0	5948750	KAKTUS
+"data/train/voda6.lab"
+0	5340000	VODA
 .
-"data/train/kaktus7.wav"
-0	5566250	KAKTUS
+"data/train/voda7.lab"
+0	9600000	VODA
 .
-"data/train/kaktus8.wav"
-0	11298750	KAKTUS
+"data/train/voda8.lab"
+0	11680000	VODA
 .
-"data/train/kaktus9.wav"
-0	10733750	KAKTUS
+"data/train/voda9.lab"
+0	12000000	VODA
 .
-"data/train/auto1.wav"
-0	12381250	AUTO
+"data/train/kaktus1.lab"
+0	13920000	KAKTUS
 .
-"data/train/auto2.wav"
-0	11708750	AUTO
+"data/train/kaktus2.lab"
+0	14400000	KAKTUS
 .
-"data/train/auto3.wav"
-0	11101250	AUTO
+"data/train/kaktus3.lab"
+0	12960000	KAKTUS
 .
-"data/train/auto4.wav"
-0	10441250	AUTO
+"data/train/kaktus4.lab"
+0	6850000	KAKTUS
 .
-"data/train/auto5.wav"
-0	6412500	AUTO
+"data/train/kaktus5.lab"
+0	8127500	KAKTUS
 .
-"data/train/auto6.wav"
-0	6053750	AUTO
+"data/train/kaktus6.lab"
+0	5921250	KAKTUS
 .
-"data/train/auto7.wav"
-0	8898750	AUTO
+"data/train/kaktus7.lab"
+0	10560000	KAKTUS
 .
-"data/train/auto8.wav"
-0	8393750	AUTO
+"data/train/kaktus8.lab"
+0	11200000	KAKTUS
 .
-"data/train/auto9.wav"
-0	11778750	AUTO
+"data/train/kaktus9.lab"
+0	12480000	KAKTUS
 .

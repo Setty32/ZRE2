@@ -1,121 +1,151 @@
 #!MLF!#
-"data/SES0160/cut_A10160A0.lab"
-0	3801250	ANO
+"data/test/kaktus1.lab"
+0	11840000	KAKTUS
 .
-"data/SES0161/cut_A10161A0.lab"
-0	4201250	ANO
+"data/test/kaktus10.lab"
+0	24640000	KAKTUS
 .
-"data/SES0162/cut_A10162A0.lab"
-0	4701250	ANO
+"data/test/kaktus2.lab"
+0	14880000	KAKTUS
 .
-"data/SES0163/cut_A10163A0.lab"
-0	4901250	ANO
+"data/test/kaktus3.lab"
+0	16320000	KAKTUS
 .
-"data/SES0164/cut_A10164A0.lab"
-0	3501250	ANO
+"data/test/kaktus4.lab"
+0	14880000	KAKTUS
 .
-"data/SES0165/cut_A10165A0.lab"
-0	3301250	ANO
+"data/test/kaktus5.lab"
+0	12160000	KAKTUS
 .
-"data/SES0166/cut_A10166A0.lab"
-0	4201250	ANO
+"data/test/kaktus6.lab"
+0	13920000	KAKTUS
 .
-"data/SES0167/cut_A10167A0.lab"
-0	4701250	ANO
+"data/test/kaktus7.lab"
+0	16160000	KAKTUS
 .
-"data/SES0168/cut_A10168A0.lab"
-0	3801250	ANO
+"data/test/kaktus8.lab"
+0	20960000	KAKTUS
 .
-"data/SES0169/cut_A10169A0.lab"
-0	3601250	ANO
+"data/test/kaktus9.lab"
+0	18880000	KAKTUS
 .
-"data/SES0170/cut_A10170A0.lab"
-0	22501250	ANO
+"data/test/voda1.lab"
+0	11040000	VODA
 .
-"data/SES0171/cut_A10171A0.lab"
-0	19801250	ANO
+"data/test/voda10.lab"
+0	23680000	VODA
 .
-"data/SES0172/cut_A10172A0.lab"
-0	4901250	ANO
+"data/test/voda2.lab"
+0	13760000	VODA
 .
-"data/SES0173/cut_A10173A0.lab"
-0	5201250	ANO
+"data/test/voda3.lab"
+0	13600000	VODA
 .
-"data/SES0174/cut_A10174A0.lab"
-0	5301250	ANO
+"data/test/voda4.lab"
+0	15680000	VODA
 .
-"data/SES0175/cut_A10175A0.lab"
-0	4601250	ANO
+"data/test/voda5.lab"
+0	10880000	VODA
 .
-"data/SES0176/cut_A10176A0.lab"
-0	3001250	ANO
+"data/test/voda6.lab"
+0	15200000	VODA
 .
-"data/SES0177/cut_A10177A0.lab"
-0	4601250	ANO
+"data/test/voda7.lab"
+0	12960000	VODA
 .
-"data/SES0178/cut_A10178A0.lab"
-0	3101250	ANO
+"data/test/voda8.lab"
+0	17920000	VODA
 .
-"data/SES0179/cut_A10179A0.lab"
-0	3601250	ANO
+"data/test/voda9.lab"
+0	21600000	VODA
 .
-"data/SES0160/cut_A10160A1.lab"
-0	4401250	NE
+"data/test/lopata1.lab"
+0	9760000	LOPATA
 .
-"data/SES0161/cut_A10161A1.lab"
-0	3501250	NE
+"data/test/lopata10.lab"
+0	24480000	LOPATA
 .
-"data/SES0162/cut_A10162A1.lab"
-0	3701250	NE
+"data/test/lopata2.lab"
+0	15200000	LOPATA
 .
-"data/SES0163/cut_A10163A1.lab"
-0	3601250	NE
+"data/test/lopata3.lab"
+0	13760000	LOPATA
 .
-"data/SES0164/cut_A10164A1.lab"
-0	4401250	NE
+"data/test/lopata4.lab"
+0	17280000	LOPATA
 .
-"data/SES0165/cut_A10165A1.lab"
-0	3201250	NE
+"data/test/lopata5.lab"
+0	11840000	LOPATA
 .
-"data/SES0166/cut_A10166A1.lab"
-0	4101250	NE
+"data/test/lopata6.lab"
+0	13600000	LOPATA
 .
-"data/SES0167/cut_A10167A1.lab"
-0	4901250	NE
+"data/test/lopata7.lab"
+0	14080000	LOPATA
 .
-"data/SES0168/cut_A10168A1.lab"
-0	6201250	NE
+"data/test/lopata8.lab"
+0	32000000	LOPATA
 .
-"data/SES0169/cut_A10169A1.lab"
-0	4401250	NE
+"data/test/lopata9.lab"
+0	20160000	LOPATA
 .
-"data/SES0170/cut_A10170A1.lab"
-0	10301250	NE
+"data/test/pes1.lab"
+0	9920000	PES
 .
-"data/SES0171/cut_A10171A1.lab"
-0	4701250	NE
+"data/test/pes10.lab"
+0	28800000	PES
 .
-"data/SES0172/cut_A10172A1.lab"
-0	3501250	NE
+"data/test/pes2.lab"
+0	12160000	PES
 .
-"data/SES0173/cut_A10173A1.lab"
-0	4101250	NE
+"data/test/pes3.lab"
+0	16320000	PES
 .
-"data/SES0174/cut_A10174A1.lab"
-0	8001250	NE
+"data/test/pes4.lab"
+0	14400000	PES
 .
-"data/SES0175/cut_A10175A1.lab"
-0	9801250	NE
+"data/test/pes5.lab"
+0	12160000	PES
 .
-"data/SES0176/cut_A10176A1.lab"
-0	3501250	NE
+"data/test/pes6.lab"
+0	14080000	PES
 .
-"data/SES0177/cut_A10177A1.lab"
-0	3901250	NE
+"data/test/pes7.lab"
+0	12480000	PES
 .
-"data/SES0178/cut_A10178A1.lab"
-0	3801250	NE
+"data/test/pes8.lab"
+0	51200000	PES
 .
-"data/SES0179/cut_A10179A1.lab"
-0	2901250	NE
+"data/test/pes9.lab"
+0	18560000	PES
+.
+"data/test/auto1.lab"
+0	10560000	AUTO
+.
+"data/test/auto10.lab"
+0	25760000	AUTO
+.
+"data/test/auto2.lab"
+0	11840000	AUTO
+.
+"data/test/auto3.lab"
+0	15520000	AUTO
+.
+"data/test/auto4.lab"
+0	13280000	AUTO
+.
+"data/test/auto5.lab"
+0	11200000	AUTO
+.
+"data/test/auto6.lab"
+0	13440000	AUTO
+.
+"data/test/auto7.lab"
+0	11840000	AUTO
+.
+"data/test/auto8.lab"
+0	22240000	AUTO
+.
+"data/test/auto9.lab"
+0	18880000	AUTO
 .
