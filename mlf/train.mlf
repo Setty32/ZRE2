@@ -1,136 +1,55 @@
 #!MLF!#
-"data/train/auto1.lab"
-0	12160000	AUTO
-.
-"data/train/auto2.lab"
-0	12480000	AUTO
-.
-"data/train/auto3.lab"
-0	10880000	AUTO
-.
-"data/train/auto4.lab"
-0	6733750	AUTO
-.
-"data/train/auto5.lab"
-0	6385000	AUTO
-.
-"data/train/auto6.lab"
-0	7778750	AUTO
-.
-"data/train/auto7.lab"
-0	8800000	AUTO
-.
-"data/train/auto8.lab"
-0	10560000	AUTO
-.
-"data/train/auto9.lab"
-0	11680000	AUTO
-.
 "data/train/pes1.lab"
-0	10080000	PES
+0	3158750	PES
 .
 "data/train/pes2.lab"
-0	12960000	PES
+0	3412500	PES
 .
 "data/train/pes3.lab"
-0	12000000	PES
+0	2280000	PES
 .
 "data/train/pes4.lab"
-0	4527500	PES
+0	2897500	PES
 .
 "data/train/pes5.lab"
-0	4760000	PES
+0	4157500	PES
 .
 "data/train/pes6.lab"
 0	6037500	PES
 .
 "data/train/pes7.lab"
-0	10080000	PES
+0	3192500	PES
 .
 "data/train/pes8.lab"
-0	10400000	PES
+0	3120000	PES
 .
 "data/train/pes9.lab"
-0	11200000	PES
+0	3285000	PES
 .
 "data/train/lopata1.lab"
-0	13280000	LOPATA
+0	5920000	LOPATA
 .
 "data/train/lopata2.lab"
-0	11680000	LOPATA
+0	5921250	LOPATA
 .
 "data/train/lopata3.lab"
-0	13760000	LOPATA
+0	5538750	LOPATA
 .
 "data/train/lopata4.lab"
-0	8687500	LOPATA
+0	6771250	LOPATA
 .
 "data/train/lopata5.lab"
-0	6966250	LOPATA
+0	4798750	LOPATA
 .
 "data/train/lopata6.lab"
-0	8127500	LOPATA
+0	5776250	LOPATA
 .
 "data/train/lopata7.lab"
-0	12160000	LOPATA
+0	6156250	LOPATA
 .
 "data/train/lopata8.lab"
-0	12960000	LOPATA
+0	6698750	LOPATA
 .
 "data/train/lopata9.lab"
-0	12800000	LOPATA
-.
-"data/train/voda1.lab"
-0	11520000	VODA
-.
-"data/train/voda2.lab"
-0	11840000	VODA
-.
-"data/train/voda3.lab"
-0	13920000	VODA
-.
-"data/train/voda4.lab"
-0	6966250	VODA
-.
-"data/train/voda5.lab"
-0	7198750	VODA
-.
-"data/train/voda6.lab"
-0	5340000	VODA
-.
-"data/train/voda7.lab"
-0	9600000	VODA
-.
-"data/train/voda8.lab"
-0	11680000	VODA
-.
-"data/train/voda9.lab"
-0	12000000	VODA
-.
-"data/train/kaktus1.lab"
-0	13920000	KAKTUS
-.
-"data/train/kaktus2.lab"
-0	14400000	KAKTUS
-.
-"data/train/kaktus3.lab"
-0	12960000	KAKTUS
-.
-"data/train/kaktus4.lab"
-0	6850000	KAKTUS
-.
-"data/train/kaktus5.lab"
-0	8127500	KAKTUS
-.
-"data/train/kaktus6.lab"
-0	5921250	KAKTUS
-.
-"data/train/kaktus7.lab"
-0	10560000	KAKTUS
-.
-"data/train/kaktus8.lab"
-0	11200000	KAKTUS
-.
-"data/train/kaktus9.lab"
-0	12480000	KAKTUS
+0	5432500	LOPATA
 .

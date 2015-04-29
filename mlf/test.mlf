@@ -1,94 +1,4 @@
 #!MLF!#
-"data/test/kaktus1.lab"
-0	11840000	KAKTUS
-.
-"data/test/kaktus10.lab"
-0	24640000	KAKTUS
-.
-"data/test/kaktus2.lab"
-0	14880000	KAKTUS
-.
-"data/test/kaktus3.lab"
-0	16320000	KAKTUS
-.
-"data/test/kaktus4.lab"
-0	14880000	KAKTUS
-.
-"data/test/kaktus5.lab"
-0	12160000	KAKTUS
-.
-"data/test/kaktus6.lab"
-0	13920000	KAKTUS
-.
-"data/test/kaktus7.lab"
-0	16160000	KAKTUS
-.
-"data/test/kaktus8.lab"
-0	20960000	KAKTUS
-.
-"data/test/kaktus9.lab"
-0	18880000	KAKTUS
-.
-"data/test/voda1.lab"
-0	11040000	VODA
-.
-"data/test/voda10.lab"
-0	23680000	VODA
-.
-"data/test/voda2.lab"
-0	13760000	VODA
-.
-"data/test/voda3.lab"
-0	13600000	VODA
-.
-"data/test/voda4.lab"
-0	15680000	VODA
-.
-"data/test/voda5.lab"
-0	10880000	VODA
-.
-"data/test/voda6.lab"
-0	15200000	VODA
-.
-"data/test/voda7.lab"
-0	12960000	VODA
-.
-"data/test/voda8.lab"
-0	17920000	VODA
-.
-"data/test/voda9.lab"
-0	21600000	VODA
-.
-"data/test/lopata1.lab"
-0	9760000	LOPATA
-.
-"data/test/lopata10.lab"
-0	24480000	LOPATA
-.
-"data/test/lopata2.lab"
-0	15200000	LOPATA
-.
-"data/test/lopata3.lab"
-0	13760000	LOPATA
-.
-"data/test/lopata4.lab"
-0	17280000	LOPATA
-.
-"data/test/lopata5.lab"
-0	11840000	LOPATA
-.
-"data/test/lopata6.lab"
-0	13600000	LOPATA
-.
-"data/test/lopata7.lab"
-0	14080000	LOPATA
-.
-"data/test/lopata8.lab"
-0	32000000	LOPATA
-.
-"data/test/lopata9.lab"
-0	20160000	LOPATA
-.
 "data/test/pes1.lab"
 0	9920000	PES
 .
@@ -119,33 +29,33 @@
 "data/test/pes9.lab"
 0	18560000	PES
 .
-"data/test/auto1.lab"
-0	10560000	AUTO
+"data/test/lopata1.lab"
+0	9760000	LOPATA
 .
-"data/test/auto10.lab"
-0	25760000	AUTO
+"data/test/lopata10.lab"
+0	24480000	LOPATA
 .
-"data/test/auto2.lab"
-0	11840000	AUTO
+"data/test/lopata2.lab"
+0	15200000	LOPATA
 .
-"data/test/auto3.lab"
-0	15520000	AUTO
+"data/test/lopata3.lab"
+0	13760000	LOPATA
 .
-"data/test/auto4.lab"
-0	13280000	AUTO
+"data/test/lopata4.lab"
+0	17280000	LOPATA
 .
-"data/test/auto5.lab"
-0	11200000	AUTO
+"data/test/lopata5.lab"
+0	11840000	LOPATA
 .
-"data/test/auto6.lab"
-0	13440000	AUTO
+"data/test/lopata6.lab"
+0	13600000	LOPATA
 .
-"data/test/auto7.lab"
-0	11840000	AUTO
+"data/test/lopata7.lab"
+0	14080000	LOPATA
 .
-"data/test/auto8.lab"
-0	22240000	AUTO
+"data/test/lopata8.lab"
+0	32000000	LOPATA
 .
-"data/test/auto9.lab"
-0	18880000	AUTO
+"data/test/lopata9.lab"
+0	20160000	LOPATA
 .
