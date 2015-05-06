@@ -1,0 +1,4 @@
+  ERROR [+8050]  ReadDict: Phone or outsym expected in word KAKTUS
+  ERROR [+8013]  ReadDict: Dict format error
+  ERROR [+3213]  Main: ReadDict failed
+ FATAL ERROR - Terminating program HVite

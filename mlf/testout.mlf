@@ -1,61 +1,97 @@
 #!MLF!#
-"data/test/lopata10.rec"
-0 24300000 LOPATA -20909.548828
+"data/test/auto1.rec"
+0 4200000 AUTO -3018.642090
 .
-"data/test/lopata1.rec"
-0 9800000 LOPATA -6791.986328
+"data/test/auto2.rec"
+0 4200000 AUTO -2826.935303
 .
-"data/test/lopata2.rec"
-0 15200000 LOPATA -10023.360352
+"data/test/auto3.rec"
+0 4700000 AUTO -3180.988281
 .
-"data/test/lopata3.rec"
-0 13800000 LOPATA -9183.063477
+"data/test/auto4.rec"
+0 3900000 AUTO -3463.144043
 .
-"data/test/lopata4.rec"
-0 17300000 LOPATA -11840.461914
+"data/test/auto5.rec"
+0 4200000 AUTO -2968.378418
 .
-"data/test/lopata5.rec"
-0 11900000 LOPATA -8214.771484
+"data/test/auto6.rec"
+0 5300000 AUTO -3672.911133
 .
-"data/test/lopata6.rec"
-0 13600000 LOPATA -8961.220703
+"data/test/auto7.rec"
+0 4500000 AUTO -2955.788330
 .
-"data/test/lopata7.rec"
-0 14100000 LOPATA -9595.624023
+"data/test/auto8.rec"
+0 5200000 AUTO -3607.122070
 .
-"data/test/lopata8.rec"
-0 31800000 LOPATA -30246.160156
+"data/test/kaktus1.rec"
+0 5800000 KAKTUS -3924.093750
 .
-"data/test/lopata9.rec"
-0 20000000 LOPATA -18063.091797
+"data/test/kaktus2.rec"
+0 6200000 KAKTUS -5687.322266
 .
-"data/test/pes10.rec"
-0 28600000 PES -21189.552734
+"data/test/kaktus3.rec"
+0 4600000 KAKTUS -4132.647949
+.
+"data/test/kaktus4.rec"
+0 4900000 KAKTUS -4593.273438
+.
+"data/test/kaktus5.rec"
+0 4700000 KAKTUS -3220.831787
+.
+"data/test/kaktus6.rec"
+0 5400000 KAKTUS -3612.527100
+.
+"data/test/kaktus7.rec"
+0 4900000 KAKTUS -3346.037598
+.
+"data/test/kaktus8.rec"
+0 4400000 KAKTUS -3006.146973
 .
 "data/test/pes1.rec"
-0 10000000 PES -6993.469727
+0 3800000 PES -2555.052734
 .
 "data/test/pes2.rec"
-0 12200000 PES -8355.234375
+0 3800000 PES -2494.362549
 .
 "data/test/pes3.rec"
-0 16300000 LOPATA -10748.762695
+0 3100000 PES -2122.493896
 .
 "data/test/pes4.rec"
-0 14400000 LOPATA -9950.778320
+0 3100000 PES -1988.303955
 .
 "data/test/pes5.rec"
-0 12200000 LOPATA -8422.738281
+0 2900000 PES -1934.497192
 .
 "data/test/pes6.rec"
-0 14100000 LOPATA -9581.286133
+0 3100000 PES -1966.520386
 .
 "data/test/pes7.rec"
-0 12500000 LOPATA -8705.409180
+0 3800000 PES -2512.387207
 .
 "data/test/pes8.rec"
-0 51000000 PES -49777.945312
+0 1600000 KAKTUS -1301.425659
 .
-"data/test/pes9.rec"
-0 18400000 PES -17523.378906
+"data/test/voda1.rec"
+0 2600000 VODA -1818.163940
+.
+"data/test/voda2.rec"
+0 2300000 AUTO -1561.630981
+.
+"data/test/voda3.rec"
+0 3400000 VODA -2373.007568
+.
+"data/test/voda4.rec"
+0 3200000 VODA -2275.227539
+.
+"data/test/voda5.rec"
+0 3600000 VODA -2588.509277
+.
+"data/test/voda6.rec"
+0 3100000 VODA -1993.714111
+.
+"data/test/voda7.rec"
+0 2900000 VODA -1985.615112
+.
+"data/test/voda8.rec"
+0 3300000 VODA -2671.630371
 .

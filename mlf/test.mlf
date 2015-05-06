@@ -1,61 +1,103 @@
 #!MLF!#
-"data/test/pes1.lab"
-0	9920000	PES
+"data/test/auto1.lab"
+0	4360000	AUTO
 .
-"data/test/pes10.lab"
-0	28800000	PES
+"data/test/auto10.lab"
+0	5812500	AUTO
+.
+"data/test/auto2.lab"
+0	4360000	AUTO
+.
+"data/test/auto3.lab"
+0	4855000	AUTO
+.
+"data/test/auto4.lab"
+0	4062500	AUTO
+.
+"data/test/auto5.lab"
+0	4358750	AUTO
+.
+"data/test/auto6.lab"
+0	5482500	AUTO
+.
+"data/test/auto7.lab"
+0	4690000	AUTO
+.
+"data/test/auto8.lab"
+0	5350000	AUTO
+.
+"data/test/auto9.lab"
+0	5350000	AUTO
+.
+"data/test/pes1.lab"
+0	4042500	PES
 .
 "data/test/pes2.lab"
-0	12160000	PES
+0	4042500	PES
 .
 "data/test/pes3.lab"
-0	16320000	PES
+0	3301250	PES
 .
 "data/test/pes4.lab"
-0	14400000	PES
+0	3301250	PES
 .
 "data/test/pes5.lab"
-0	12160000	PES
+0	3065000	PES
 .
 "data/test/pes6.lab"
-0	14080000	PES
+0	3301250	PES
 .
 "data/test/pes7.lab"
-0	12480000	PES
+0	4042500	PES
 .
 "data/test/pes8.lab"
-0	51200000	PES
+0	1818750	PES
 .
-"data/test/pes9.lab"
-0	18560000	PES
+"data/test/kaktus1.lab"
+0	5970000	KAKTUS
 .
-"data/test/lopata1.lab"
-0	9760000	LOPATA
+"data/test/kaktus2.lab"
+0	6350000	KAKTUS
 .
-"data/test/lopata10.lab"
-0	24480000	LOPATA
+"data/test/kaktus3.lab"
+0	4770000	KAKTUS
 .
-"data/test/lopata2.lab"
-0	15200000	LOPATA
+"data/test/kaktus4.lab"
+0	5148750	KAKTUS
 .
-"data/test/lopata3.lab"
-0	13760000	LOPATA
+"data/test/kaktus5.lab"
+0	4927500	KAKTUS
 .
-"data/test/lopata4.lab"
-0	17280000	LOPATA
+"data/test/kaktus6.lab"
+0	5591250	KAKTUS
 .
-"data/test/lopata5.lab"
-0	11840000	LOPATA
+"data/test/kaktus7.lab"
+0	5148750	KAKTUS
 .
-"data/test/lopata6.lab"
-0	13600000	LOPATA
+"data/test/kaktus8.lab"
+0	4612500	KAKTUS
 .
-"data/test/lopata7.lab"
-0	14080000	LOPATA
+"data/test/voda1.lab"
+0	2812500	VODA
 .
-"data/test/lopata8.lab"
-0	32000000	LOPATA
+"data/test/voda2.lab"
+0	2485000	VODA
 .
-"data/test/lopata9.lab"
-0	20160000	LOPATA
+"data/test/voda3.lab"
+0	3555000	VODA
+.
+"data/test/voda4.lab"
+0	3428750	VODA
+.
+"data/test/voda5.lab"
+0	3775000	VODA
+.
+"data/test/voda6.lab"
+0	3337500	VODA
+.
+"data/test/voda7.lab"
+0	3128750	VODA
+.
+"data/test/voda8.lab"
+0	3531250	VODA
 .

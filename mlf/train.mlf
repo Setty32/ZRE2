@@ -1,4 +1,31 @@
 #!MLF!#
+"data/train/auto1.lab"
+0	5362500	AUTO
+.
+"data/train/auto2.lab"
+0	5267500	AUTO
+.
+"data/train/auto3.lab"
+0	5172500	AUTO
+.
+"data/train/auto4.lab"
+0	5381250	AUTO
+.
+"data/train/auto5.lab"
+0	5021250	AUTO
+.
+"data/train/auto6.lab"
+0	5475000	AUTO
+.
+"data/train/auto7.lab"
+0	5267500	AUTO
+.
+"data/train/auto8.lab"
+0	5513750	AUTO
+.
+"data/train/auto9.lab"
+0	5400000	AUTO
+.
 "data/train/pes1.lab"
 0	3158750	PES
 .
@@ -26,30 +53,57 @@
 "data/train/pes9.lab"
 0	3285000	PES
 .
-"data/train/lopata1.lab"
-0	5920000	LOPATA
+"data/train/kaktus1.lab"
+0	6088750	KAKTUS
 .
-"data/train/lopata2.lab"
-0	5921250	LOPATA
+"data/train/kaktus2.lab"
+0	6687500	KAKTUS
 .
-"data/train/lopata3.lab"
-0	5538750	LOPATA
+"data/train/kaktus3.lab"
+0	5986250	KAKTUS
 .
-"data/train/lopata4.lab"
-0	6771250	LOPATA
+"data/train/kaktus4.lab"
+0	9056250	KAKTUS
 .
-"data/train/lopata5.lab"
-0	4798750	LOPATA
+"data/train/kaktus5.lab"
+0	5872500	KAKTUS
 .
-"data/train/lopata6.lab"
-0	5776250	LOPATA
+"data/train/kaktus6.lab"
+0	5921250	KAKTUS
 .
-"data/train/lopata7.lab"
-0	6156250	LOPATA
+"data/train/kaktus7.lab"
+0	6366250	KAKTUS
 .
-"data/train/lopata8.lab"
-0	6698750	LOPATA
+"data/train/kaktus8.lab"
+0	6460000	KAKTUS
 .
-"data/train/lopata9.lab"
-0	5432500	LOPATA
+"data/train/kaktus9.lab"
+0	6953750	KAKTUS
+.
+"data/train/voda1.lab"
+0	4838750	VODA
+.
+"data/train/voda2.lab"
+0	3943750	VODA
+.
+"data/train/voda3.lab"
+0	13920000	VODA
+.
+"data/train/voda4.lab"
+0	6966250	VODA
+.
+"data/train/voda5.lab"
+0	7198750	VODA
+.
+"data/train/voda6.lab"
+0	5340000	VODA
+.
+"data/train/voda7.lab"
+0	3640000	VODA
+.
+"data/train/voda8.lab"
+0	3270000	VODA
+.
+"data/train/voda9.lab"
+0	3200000	VODA
 .
